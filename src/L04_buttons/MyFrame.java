@@ -58,7 +58,7 @@ public class MyFrame extends JFrame implements ActionListener {
 
         //如果是button被按到
         if(e.getSource()==button){
-            System.out.println("GGGGG");
+            System.out.println("Hello?");
             label.setVisible(true);
         }
     }
